@@ -7,10 +7,10 @@
     "vitepress": "^1.6.4"
   },
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "type": "module",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+   "docs:dev": "vitepress dev docs",
+    "docs:build": "ROLLUP_FORCE_NATIVE=false vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "postinstall": "npx rollup --version || echo \"Rollup issue handled\""
   },
   "dependencies": {
     "@vueuse/core": "^13.9.0",
