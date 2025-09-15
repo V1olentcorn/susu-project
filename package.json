@@ -7,7 +7,6 @@
     "vitepress": "^1.6.4"
   },
   "scripts": {
-    "postinstall": "npx rollup --version || echo \"Rollup optional dependency failed, continuing build\""
     "docs:dev": "vitepress dev docs",
     "type": "module",
     "docs:build": "vitepress build docs",
