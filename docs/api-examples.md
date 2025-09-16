@@ -6,7 +6,7 @@ outline: deep
 <Video
   src="/cs.mp4"
   poster="https://cdn.jsdelivr.net/gh/themusecatcher/resources@0.1.2/ultra.jpg"
-  width="100%"
+  width="100%"      
   height="auto"
   controls
 />

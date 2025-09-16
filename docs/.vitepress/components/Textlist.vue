@@ -23,7 +23,7 @@ const listData = ref([
   <List>
     <ListItem v-for="(data, index) in listData" :key="index" :title="data.title">
       <template #avatar>
-        <Avatar src="../../public/touxiang.jpg" />
+        <Avatar src="../../touxiang.jpg" />
       </template>
       <template #description>
         {{ data.description }}
