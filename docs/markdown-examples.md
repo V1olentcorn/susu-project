@@ -1,3 +1,8 @@
+---
+# 只要不写 layout，或者写 layout: doc，评论区就会自动出现
+layout: doc
+---
+
 # 和小苏的回忆记录
 <small style="color: #999; display: block; margin-top: 1rem;">made by Corn</small>
 
@@ -370,6 +375,8 @@
 
 <TextList />
 
+
+
 <!-- 在你的.md文件中 -->
 <ClientOnly>
   <iframe 
@@ -396,6 +403,9 @@
   variant="type3"
    
 />  -->
+
+
+
 
 
 

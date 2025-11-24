@@ -14,8 +14,10 @@ import timecount from '../components/timecount.vue'
 import selfpic from '../components/selfpic.vue'
 import EmailButton from '../components/emailbutton.vue'
 import zhixie from '../components/zhixie.vue'
+import mylayout from '../components/Layout.vue'
 export default {
   extends: DefaultTheme,
+  Layout: mylayout,
   enhanceApp({ app }) {
     app.component('ImageSlider', ImageSlider)
     app.component('Gongge',Gongge)
