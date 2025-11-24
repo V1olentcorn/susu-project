@@ -371,7 +371,70 @@ layout: doc
   // { image: '/222.jpg' }
 ]" />
 
-## 第十一章 回忆记录,未完待续!!!
+## 第十一章 北京我来也！！
+ 
+<span style="font-size: 16px; color: #333333;">"<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">北京我会来的！！</span>"</span><br>
+<br>
+<span style="font-size: 16px; color: #333333;">"<span style="font-size: 18px; color: #9775fa; font-weight: bold;">不要！</span>"</span><br>
+<br>
+<span style="font-size: 16px; color: #333333;">"<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">我很想你</span>"</span><br>
+<br>
+<span style="font-size: 16px; color: #333333;">"<span style="font-size: 18px; color: #9775fa; font-weight: bold;">不要!</span>"</span><br>
+<br>
+<span style="font-size: 16px; color: #333333;">"<span style="font-size: 18px; color: #51cf66; font-weight: bold;">没关系的，我不累</span>"</span><br>
+<br>
+<span style="font-size: 16px; color: #333333;">"<span style="font-size: 18px; color: #9775fa; font-weight: bold;">不要!</span>"</span><br>
+<br>
+<span style="font-size: 16px; color: #333333;">"<span style="font-size: 18px; color: #51cf66; font-weight: bold;">我有学生火车优惠，很优惠的</span>"</span><br>
+<br>
+<span style="font-size: 16px; color: #333333;">"<span style="font-size: 18px; color: #9775fa; font-weight: bold;">不要不要不要!!!</span>"</span><br>
+
+<span style="font-size: 16px; color: #333333;">我反复找着去见你的理由，屏幕那边每次发来的都是<span style="font-size: 18px; color: #9775fa; font-weight: bold;">不要</span>，我没有伤心难过，我真的知道，你是怕我累，怕我辛苦，怕<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">想念被劳累磨去</span>，怕<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">幸福变成负担</span>。我们平时见面时间很紧张，<span style="font-size: 18px; color: #339af0; font-weight: bold;">通勤时间会占据我们短暂见面的1/4</span>，你极力反对没有让我难过，而是让我思考<span style="font-size: 18px; color: #51cf66; font-weight: bold;">见一面的成本和得到的幸福真的平衡吗？</span>异地恋见面多久的频率算是正常呢？</span><br>
+
+<span style="font-size: 16px; color: #333333;">我想来想去想不明白，我只知道我<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">真的真的好想你</span>，客观的分析我不想听，理性的思考也劝说不了我，<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">我想见你</span>。</span><br>
+
+<span style="font-size: 16px; color: #333333;">"<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">我真的真的好想你，我们见面吧</span>"</span><br>
+
+<span style="font-size: 16px; color: #333333;">我忘记这一次我是用什么样的语气跟你说我要去<span style="font-size: 18px; color: #339af0; font-weight: bold;">北京</span>，又是用什么理由劝说你，我只记得当时说这句话的时候，我是<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">很认真的，很想你</span>。<br>
+不同的是这一次<br>
+"<span style="font-size: 18px; color: #ff922b; font-weight: bold;">好~</span>"</span><br>
+
+<span style="font-size: 16px; color: #333333;">于是我们在<span style="font-size: 18px; color: #339af0; font-weight: bold;">北京见面</span>。意料之中的<span style="font-size: 18px; color: #339af0; font-weight: bold;">小苏</span>很忙，我们没有什么时间出去玩，有一大部分时间在一起写<span style="font-size: 18px; color: #339af0; font-weight: bold;">小苏的课程作业</span>，效率其实不低，但是<span style="font-size: 18px; color: #339af0; font-weight: bold;">小苏密密麻麻的todolist</span>让我们还是只能除了吃饭的时间，抽出一点时间来聊聊天。<br>
+但是，<span style="font-size: 18px; color: #fcc419; font-weight: bold;">好安心，淡淡的</span>。</span><br>
+
+<span style="font-size: 16px; color: #333333;">和<span style="font-size: 18px; color: #339af0; font-weight: bold;">小苏</span>一起坐在教室里写作业的时候，好像又回到了<span style="font-size: 18px; color: #339af0; font-weight: bold;">做毕设的那段时间</span>，我完成我的作业，时间才过去了一小会，效率很高很高，我想是因为<span style="font-size: 18px; color: #fcc419; font-weight: bold;">小苏在身边非常安心</span>。</span><br>
+
+<span style="font-size: 16px; color: #333333;">虽然时间很紧，<span style="font-size: 18px; color: #339af0; font-weight: bold;">小苏的作业</span>也很多，<br>
+但是能看出来<span style="font-size: 18px; color: #339af0; font-weight: bold;">小苏</span>是很想<span style="font-size: 18px; color: #ff922b; font-weight: bold;">尽地主之谊</span>的，</span><br>
+
+<span style="font-size: 16px; color: #333333;"><span style="font-size: 18px; color: #339af0; font-weight: bold;">小苏</span>带我逛校园，这里走走那里走走，虽然有目的地，但还是采取的<span style="font-size: 18px; color: #51cf66; font-weight: bold;">曲线救国的思路</span>，牵着我的手慢慢绕了好大一圈<br><br>
+"<span style="font-size: 18px; color: #ff922b; font-weight: bold;">你想不想走那边？情人坡哦</span>"<br><br>
+"<span style="font-size: 18px; color: #ff922b; font-weight: bold;">你想不想喝罐罐奶茶，快说你想喝，我想让你喝</span>"<br><br>
+"<span style="font-size: 18px; color: #ff922b; font-weight: bold;">我要带你吃牛肉汤和我常吃的自选菜，我都已经想好了</span>"<br><br>
+"<span style="font-size: 18px; color: #ff922b; font-weight: bold;">这里你要拍拍不，打卡点哦</span>"</span><br><br>
+
+<span style="font-size: 16px; color: #333333;">我的反应看起来大多是冷了<span style="font-size: 18px; color: #339af0; font-weight: bold;">小苏</span>的场，但其实是我想<span style="font-size: 18px; color: #51cf66; font-weight: bold;">多腾点时间不耽误小苏做作业的进度</span>，<br>
+不用花这么多时间陪我做这么多活动的，<br>
+<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">只要和你在一起就好</span>，<br>
+<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">只要和你在一起就好</span>，<br>
+<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">只要和你在一起就好</span>。</span><br>
+
+<span style="font-size: 16px; color: #333333;">见面的第一天<span style="font-size: 18px; color: #339af0; font-weight: bold;">小苏</span>就抱着我哭了，我怎么擦也止不住，<span style="font-size: 18px; color: #9775fa; font-weight: bold;">"舍不得你"</span><br>
+"<span style="font-size: 18px; color: #9775fa; font-weight: bold;">我们不是才刚见面嘛宝宝</span>"但想了想两天之后，甚至不到两天我就要走，话到嘴边又吞了下去<br>
+"<span style="font-size: 18px; color: #9775fa; font-weight: bold;">我也舍不得你</span>"<br>
+"<span style="font-size: 18px; color: #ff922b; font-weight: bold;">没事，我又来看你</span>"<br>
+"<span style="font-size: 18px; color: #9775fa; font-weight: bold;">不要</span>"</span><br>
+
+<span style="font-size: 16px; color: #333333;">唉，<span style="font-size: 18px; color: #339af0; font-weight: bold;">小苏</span>好可爱，但是我又好愧疚，我想<span style="font-size: 18px; color: #ff922b; font-weight: bold;">多来看看你</span>，好想<span style="font-size: 18px; color: #ff922b; font-weight: bold;">天天和你在一起</span>。</span><br>
+
+<span style="font-size: 16px; color: #333333;">在学校读研的日子，很多<span style="font-size: 18px; color: #9775fa; font-weight: bold;">压力大的时候</span>，很多<span style="font-size: 18px; color: #9775fa; font-weight: bold;">无语的时候</span>，甚至还有很多<span style="font-size: 18px; color: #9775fa; font-weight: bold;">可怜自己的时候</span>，我都会想起<span style="font-size: 18px; color: #339af0; font-weight: bold;">远远的你</span>，<br>
+想起你的时候，心里又会<span style="font-size: 18px; color: #51cf66; font-weight: bold;">重振旗鼓</span><br>
+哎但是还是<span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">好想你</span></span><br>
+
+<span style="font-size: 16px; color: #333333;"><span style="font-size: 18px; color: #ff6b6b; font-weight: bold;">北京我还会来的！</span></span>
+
+
+## 第十二章 回忆记录,未完待续!!!
 
 <TextList />
 
