@@ -74,7 +74,8 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: '回忆录', link: '/markdown-examples' },
-          { text: '想你的证据', link: '/api-examples' }
+          { text: '想你的证据', link: '/api-examples' },
+          {text: '足迹',link:'/zuji'}
         ]
       }
     ],

@@ -15,6 +15,7 @@ import selfpic from '../components/selfpic.vue'
 import EmailButton from '../components/emailbutton.vue'
 import zhixie from '../components/zhixie.vue'
 import mylayout from '../components/Layout.vue'
+import maphudong from '../components/maphudong.vue'
 export default {
   extends: DefaultTheme,
   Layout: mylayout,
@@ -32,6 +33,7 @@ export default {
     app.component('timecount',timecount)
      app.component('EmailButton', EmailButton)
      app.component('zhixie',zhixie)
+    app.component('MapHudong', maphudong)
   },
   vite: {
     ssr: {

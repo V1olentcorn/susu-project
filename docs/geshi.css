@@ -1,0 +1,277 @@
+/* 和小苏的回忆记录 - 带命名空间的样式文件 */
+/* 使用 .memory-page 类包裹，只影响特定页面 */
+
+.memory-page {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  line-height: 1.8;
+  color: #333;
+}
+
+/* CSS 变量 - 只在 .memory-page 内生效 */
+.memory-page {
+  --primary-color: #ff6b6b;
+  --secondary-color: #ff9e6b;
+  --accent-color: #ffd93d;
+  --text-dark: #333;
+  --text-light: #666;
+  --text-lighter: #999;
+  --bg-light: #fff5f5;
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.15);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.2);
+  --border-radius: 16px;
+  --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* 标题样式 */
+.memory-page h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  text-align: center;
+  margin: 3rem 0 1rem;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: 2px;
+  animation: fadeInDown 0.8s ease;
+}
+
+.memory-page h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 4rem 0 2rem;
+  padding: 1.5rem 2rem;
+  background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-md);
+  color: var(--text-dark);
+  position: relative;
+  overflow: hidden;
+  animation: slideInLeft 0.6s ease;
+}
+
+.memory-page h2::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 6px;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
+
+.memory-page h2::after {
+  content: '💕';
+  position: absolute;
+  right: 2rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.5rem;
+  animation: heartbeat 1.5s infinite;
+}
+
+/* 段落样式 */
+.memory-page p {
+  margin: 1.5rem 0;
+  font-size: 1.1rem;
+  line-height: 2;
+}
+
+/* 高亮样式 */
+.memory-page .highlight-pink {
+  color: #ff6b6b;
+  font-weight: 600;
+  padding: 2px 6px;
+  background: rgba(255, 107, 107, 0.1);
+  border-radius: 4px;
+  transition: var(--transition);
+}
+
+.memory-page .highlight-pink:hover {
+  background: rgba(255, 107, 107, 0.2);
+  transform: scale(1.05);
+}
+
+.memory-page .highlight-orange {
+  color: #ff9e6b;
+  font-weight: 600;
+  padding: 2px 6px;
+  background: rgba(255, 158, 107, 0.1);
+  border-radius: 4px;
+  transition: var(--transition);
+}
+
+.memory-page .highlight-orange:hover {
+  background: rgba(255, 158, 107, 0.2);
+  transform: scale(1.05);
+}
+
+.memory-page .highlight-red {
+  color: #ff0000;
+  font-weight: 600;
+  padding: 2px 6px;
+  background: rgba(255, 0, 0, 0.1);
+  border-radius: 4px;
+  transition: var(--transition);
+}
+
+.memory-page .highlight-red:hover {
+  background: rgba(255, 0, 0, 0.2);
+  transform: scale(1.05);
+}
+
+/* 图片样式 */
+.memory-page img {
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-md);
+  transition: var(--transition);
+  margin: 2rem auto;
+  display: block;
+}
+
+.memory-page img:hover {
+  transform: scale(1.02) translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+/* 章节介绍区块 */
+.memory-page .chapter-intro {
+  background: white;
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-sm);
+  margin: 2rem 0;
+  transition: var(--transition);
+  line-height: 2;
+  font-size: 1.05rem;
+}
+
+.memory-page .chapter-intro:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+/* 分隔线 */
+.memory-page .divider {
+  opacity: 0.6;
+}
+
+/* 列表样式 */
+.memory-page ol,
+.memory-page ul {
+  margin: 2rem 0;
+  padding-left: 2rem;
+}
+
+.memory-page li {
+  margin: 1rem 0;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.memory-page li::marker {
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+/* 引用块 */
+.memory-page blockquote {
+  border-left: 4px solid var(--primary-color);
+  background: var(--bg-light);
+  padding: 1.5rem 2rem;
+  margin: 2rem 0;
+  border-radius: 0 var(--border-radius) var(--border-radius) 0;
+  font-style: italic;
+  color: var(--text-light);
+  box-shadow: var(--shadow-sm);
+}
+
+/* 动画定义 */
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes heartbeat {
+  0%, 100% {
+    transform: translateY(-50%) scale(1);
+  }
+  50% {
+    transform: translateY(-50%) scale(1.2);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 页面元素淡入 */
+.memory-page > * {
+  animation: fadeIn 0.6s ease;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .memory-page h1 {
+    font-size: 2rem;
+  }
+  
+  .memory-page h2 {
+    font-size: 1.5rem;
+    padding: 1rem 1.5rem;
+  }
+  
+  .memory-page p {
+    font-size: 1rem;
+  }
+
+  .memory-page .chapter-intro {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .memory-page h1 {
+    font-size: 1.5rem;
+  }
+
+  .memory-page h2 {
+    font-size: 1.2rem;
+    padding: 0.8rem 1rem;
+  }
+
+  .memory-page .chapter-intro {
+    padding: 1rem;
+  }
+}
+
+/* 选中文本样式 */
+.memory-page ::selection {
+  background: rgba(255, 107, 107, 0.3);
+  color: var(--text-dark);
+}

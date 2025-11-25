@@ -81,8 +81,13 @@ fit-mode="contain"/>
 </div>
 
 我开始想着<span class="highlight-red">和你一起出去吃饭</span>，我想着从成都给你带<span class="highlight-red">礼物</span>。我下意识地想离你<span class="highlight-red">越来越近</span>，但是又在不断思考<span class="highlight-orange">怎么样才能显得比较正常不刻意</span>，毕竟我们当时<span class="highlight-orange">只是朋友</span>。
+
 </div>
+
+### 📱 那些小心翼翼的等待
+
 <div style="background: #f8f9fa; padding: 2rem; border-radius: 12px; margin: 2rem 0; border-left: 4px solid #ff6b6b;">
+
 我甚至开始<span class="highlight-orange">偷偷排练</span>，并且信息发出去的时候<span class="highlight-orange">不敢看屏幕</span>，而是假装不在意，忙其他的事情。
 
 实际却是<span class="highlight-orange">每隔几秒就想看看你有没有回复</span>，手机铃声响一下我就<span class="highlight-orange">弹射过去看微信</span>，发现不是你的消息就<span class="highlight-orange">暗自失望</span>，是你的消息就<span class="highlight-orange">开心不已</span>。
@@ -116,7 +121,9 @@ fit-mode="contain"/>
 ## 🌹 第三章 · 告白行动
 
 <div class="chapter-intro" style="background: white; padding: 2rem; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.1); margin: 2rem 0;">
+
 当我意识到的时候，我就知道我得抓紧了，因为毕业将近，我还得准备准备怎么去告白（对我就是这么一个喜欢排练的人），留给我的时间不多了。
+
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/hua.jpg" alt="手捧花" width="300" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </div>
@@ -190,6 +197,7 @@ fit-mode="contain"/>
 ## 🎊 第四章 · 五一
 
 <div class="chapter-intro" style="background: white; padding: 2rem; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.1); margin: 2rem 0;">
+
 我们刚刚<span class="highlight-pink">确定关系</span>没几天，我就回到杭州和老家过五一，经历了我们第一次<span class="highlight-orange">"短暂异地"</span>。
 
 这期间我们的感情也<span class="highlight-orange">持续升温</span>，我们天天都在聊天、分享日常、表达思念，我的<span class="highlight-pink">笑容总是挂在脸上</span>，导致我姐一眼就看出来了，只是一直没点破，有时候在我笑之后跟着我笑。
@@ -228,7 +236,7 @@ fit-mode="contain"/>
   { image: '/wuyi6.jpg' , caption: '第一次打视频' }
 ]" />
 
-### 💝 小苏道歉，太可爱了
+### 💝 可爱的道歉
 
 <div style="background: white; padding: 2rem; border-radius: 12px; margin: 2rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
@@ -251,8 +259,11 @@ fit-mode="contain"/>
 <div class="divider" style="height: 2px; background: linear-gradient(90deg, transparent, #ffd93d, transparent); margin: 3rem 0;"></div>
 
 ## 💑 第五章 · 第一次约会
+
 <div class="chapter-intro" style="background: white; padding: 2rem; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.1); margin: 2rem 0;">
+
 小苏当时其实还是在忙毕设的事情，但是在我的软磨硬泡下抽出了一整天的时间，好开心！
+
 所以第一次约会，我很高兴，也很珍惜很重视，我打算好好安排一下行程。我之前和朋友出去都是想到什么就做什么，导致这下我有点知识贫瘠，只能临时抱佛脚，求助于万能的互联网。
 
 <div style="background: #e3f2fd; padding: 1.5rem; border-radius: 12px; margin: 1.5rem 0;">
@@ -264,7 +275,7 @@ fit-mode="contain"/>
 
 </div>
 
-### 🎭 脱口秀，第一次体验内
+### 🎭 脱口秀之夜
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 16px; margin: 2rem 0; color: white;">
 
@@ -324,13 +335,20 @@ fit-mode="contain"/>
   opacity: 0.6;
 }
 </style>
+<!-- 这是第六章到第十二章的美化内容，接在 memory-beautified.md 后面 -->
+
+<div class="divider" style="height: 2px; background: linear-gradient(90deg, transparent, #ff6b6b, transparent); margin: 3rem 0;"></div>
 
 ## ✈️ 第六章 · 大理之旅
 
 <div class="chapter-intro" style="background: white; padding: 2rem; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.1); margin: 2rem 0;">
+
 之前的约会已经让我从一个 P人 慢慢地变成了一个 J人，这次充满超级超级超级超级期待的第一次旅行也不例外。
 
+### 📊 旅行攻略 PPT
+
 制作了 PPT，制作的过程中全是和小苏一起的期待，根本睡不着觉，直接做了一晚上的攻略哈哈哈哈，想着第二天小苏看见能满意。
+
 </div>
 
 <Gongge :images="[
@@ -408,7 +426,7 @@ fit-mode="contain"/>
 
 </div>
 
-### 💧 第一次变小笨猪
+### 💧 高铁站的眼泪
 
 <div style="background: rgba(255,255,255,0.2); padding: 1.5rem; border-radius: 12px; margin: 1.5rem 0; line-height: 2;">
 
@@ -435,9 +453,11 @@ fit-mode="contain"/>
 <div class="divider" style="height: 2px; background: linear-gradient(90deg, transparent, #ffd93d, transparent); margin: 3rem 0;"></div>
 
 ## 🏙️ 第八章 · 武汉
+
 <div class="chapter-intro" style="background: white; padding: 2rem; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.1); margin: 2rem 0;">
 
-### ❤️好想我小宝
+### 💭 思念
+
 想念比我想象的还要猛烈，离开几天我就非常非常想念小苏，小苏也是一样。
 
 <div style="background: #fff0f0; padding: 1.5rem; border-radius: 12px; margin: 1.5rem 0; border-left: 4px solid #ff6b6b;">
@@ -474,13 +494,13 @@ fit-mode="contain"/>
 
 <div style="background: white; padding: 2rem; border-radius: 16px; margin: 2rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
-### 🍳 和小苏一起做饭哦~
+### 🍳 一起做饭的幸福
 
 我们一起在民宿做饭，我预谋了很久准备做江西名菜芋头煮牛肉，虽然经常吃但其实是我第一次做，最后竟然蛮成功的哈哈哈哈，我们吃得特别干净。
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 12px; margin: 1.5rem 0;">
 
-**好幸福好幸福好幸福好幸福啊：**
+**生活中的小细节：**
 
 - 每次出门在楼下碰见门卫，请他帮我们刷门禁时，小苏都会轻轻说"谢谢你呀"，又礼貌又温柔。后来门卫已经认识我们了，不再问"住哪一户"，就好像我们真的常住在这里。
 
@@ -534,7 +554,7 @@ fit-mode="contain"/>
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 16px; margin: 2rem 0; color: white;">
 
-### 🏠 和老大一起逛宜家~
+### 🏠 宜家的幻想
 
 <div style="line-height: 2;">
 
@@ -559,12 +579,15 @@ fit-mode="contain"/>
 好想这一天快快到来，我们一起设计我们的小家，我们一起生活。
 
 </div>
+
 </div>
+
 <div style="background: white; padding: 2rem; border-radius: 16px; margin: 2rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
-### 🍲 小苏我们未来会：
+### 🍲 对未来生活的想象
 
 <div style="background: #f0f7ff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
+
 你说<span style="color: #ff6b6b; font-weight: bold;">"宝宝我想吃火锅"</span>，我们就买来喜欢的食材，毛肚，肥牛，黄喉，金针菇，土豆片，想喝的饮料早就冰镇好往外冒着冷气，打开我们喜欢的电视，并排坐着涮我们喜欢的菜，你笑嘻嘻地和我说好希望天天都这样，我笑着说我也是。
 
 </div>
@@ -609,7 +632,7 @@ fit-mode="contain"/>
 
 </div>
 
-### 📅 提前一天也要提前！！
+### 📅 提前一天的坚持
 
 <div style="background: linear-gradient(135deg, #ffecd2, #fcb69f); padding: 2rem; border-radius: 16px; margin: 2rem 0;">
 
@@ -633,7 +656,7 @@ fit-mode="contain"/>
 
 </div>
 
-### 💖 爱你宝宝
+### 💖 爱的感知
 
 <div style="background: white; padding: 2rem; border-radius: 16px; margin: 2rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1); line-height: 2;">
 
@@ -758,7 +781,7 @@ fit-mode="contain"/>
 
 <div style="background: white; padding: 2rem; border-radius: 16px; margin: 2rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
-### 📚 陪老大做作业噢
+### 📚 一起学习的时光
 
 <div style="line-height: 2;">
 
@@ -776,7 +799,7 @@ fit-mode="contain"/>
 
 </div>
 
-### 🌟 老大好用心啊
+### 🌟 小苏的用心
 
 <div style="background: #f0f7ff; padding: 1.5rem; border-radius: 12px; margin: 1.5rem 0;">
 
@@ -801,7 +824,7 @@ fit-mode="contain"/>
 
 </div>
 
-### 💧 又变小笨猪了
+### 💧 再次的眼泪
 
 <div style="background: linear-gradient(135deg, #fff5f5, #ffe5e5); padding: 2rem; border-radius: 12px; margin: 2rem 0;">
 
